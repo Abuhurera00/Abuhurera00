@@ -1,4 +1,4 @@
-# Hi, I'm [Muhammad Abuhurera]! 👋
+# Hi, I'm Muhammad Abuhurera! 👋
 
 I'm a passionate MERN Stack Developer with expertise in **React.js**, **Next.js**, **Node.js**, **Express.js**, **MongoDB**, and **TypeScript**. I love building scalable, efficient, and user-friendly web applications.
 
