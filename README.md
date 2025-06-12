@@ -8,7 +8,7 @@ I specialize in crafting modern web experiences and continuously seek challengin
 **Languages & Technologies:**
 - **Frontend:** React.js, Next.js, Tailwind CSS
 - **Backend:** Node.js, Express.js
-- **Databases:** MongoDB, SQL
+- **Databases:** MongoDB, MySQL, Postgresql
 - **Languages:** JavaScript, TypeScript
 
 ## Projects
