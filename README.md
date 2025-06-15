@@ -1,4 +1,4 @@
-# 💫 Hi 👋, I'm Abuhurera
+# Hi 👋, I'm Abuhurera
 I'm Currently Working as a Full-Stack Developer
 
 
